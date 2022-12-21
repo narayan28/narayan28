@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hola, I'm Narayan Das Ahirwar<br>🔭 I'm currently working at Transerve Technology Pvt Ltd, goa<br>👀 I'm interested in the Data Scientist role<br>👯 I'm looking to collaborate on NLP and Dashboard project<br>🤝 I'm looking for help with<br>🌱 I'm currently learning Scala, Dashboard, and ML packages<br>💬 Ask me about Data Analysis<br>⚡ Fun fact: I used to listen to songs during working hours, but I don't remember the lyrics of any song
+ 👋 Hola, I'm Narayan Das Ahirwar<br>🔭 I'm currently working at Transerve Technology Pvt Ltd, goa<br>👀 I'm interested in the Data Scientist role<br>👯 I'm looking to collaborate on NLP and Dashboard project<br>🤝 I'm looking for help with<br>🌱 I'm currently learning Scala, Dashboard, and ML packages<br>💬 Ask me about Data Analysis<br>⚡ Fun fact: I used to listen songs during working hours, but I don't remember the lyrics of any song
 
 
 ## 🌐 Socials:
