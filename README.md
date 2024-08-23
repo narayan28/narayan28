@@ -1,7 +1,7 @@
 # 💫 About Me:
  👋 Hola, I'm Narayan Das Ahirwar<br>🔭 I'm currently working at Transerve Technology Pvt Ltd, goa<br>👀 I'm interested in the Data Scientist role<br>👯 I'm looking to collaborate on NLP and Dashboard project<br>🤝 I'm looking for help with<br>🌱 I'm currently learning Scala, Dashboard, and ML packages<br>💬 Ask me about Data Analysis<br>⚡ Fun fact: I used to listen songs during working hours, but I don't remember the lyrics of any song
 
-
+ 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/a6mTK4h) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jack_sp_rrow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narayan-das-ahirwar-a97626ba) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ndahirwar93-iitm19) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20559695) 
 
